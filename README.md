@@ -1,5 +1,7 @@
 ## Freelance Market Dashboard
 
+![Dashboard Preview](Screenshots/freelance-dashboard.png)
+
 This project analyzes a global freelancing dataset to explore trends, job categories, and market dynamics for both freelancers and businesses. Built using **Excel + Power Query**, it includes extensive cleaning, transformation, and an interactive dashboard to deliver key insights.
 
 ---
